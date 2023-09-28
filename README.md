@@ -18,7 +18,7 @@ To get started with this boilerplate, follow these steps:
 
 ```bash
 git clone https://github.com/itsramzan/tailwind-boilerplate.git
-cd tailwind-css-boilerplate
+cd tailwind-boilerplate
 ```
 
 ### 2. Install Dependencies
