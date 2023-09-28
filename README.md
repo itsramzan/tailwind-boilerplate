@@ -40,13 +40,13 @@ yarn
 If you're using npm:
 
 ```bash
-npm install
+npm start
 ```
 
 If you're using yarn:
 
 ```bash
-yarn
+yarn start
 ```
 
 This will run two development scripts concurrently:
