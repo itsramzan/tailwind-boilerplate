@@ -75,7 +75,7 @@ If you'd like to contribute to this project, please open an issue or create a pu
 
 ### Authors
 
-[Ramzan Ali](https://itsramzan.netlify.app/) - Initial work
+[Ramzan Ali](https://itsramzan.netlify.app/) - Full stack web developer
 
 ### Feedback and Support
 
