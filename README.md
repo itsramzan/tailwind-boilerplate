@@ -59,6 +59,22 @@ This will run two development scripts concurrently:
 
 Open your web browser and navigate to http://localhost:9000 to see your project in action.
 
+### 5. Build Your Project
+
+If you're using npm:
+
+```bash
+npm run build
+```
+
+If you're using yarn:
+
+```bash
+yarn build
+```
+
+This will create a build folder on your root directory.
+
 ### Customization
 
 Feel free to customize this boilerplate to fit your project's specific requirements. You can modify the Tailwind CSS configuration, add more HTML files, or make changes to the development scripts in the "package.json" file.
